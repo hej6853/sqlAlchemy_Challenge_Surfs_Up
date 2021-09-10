@@ -1,7 +1,7 @@
 # SQLAlchemy Homework - Surfs Up!
 ![surfs-up.png](Images/surfs-up.png)
 
-### This is a sqlAlchemy challenge to do basic climate analysis and data exploration of your climate database using python, SQLAlchemy, SQLAlchemy ORM queries, Pandas, and Matplotlib.
+### This is a sqlAlchemy challenge to do basic climate analysis and data exploration of your climate database using python, SQLAlchemy, SQLAlchemy ORM queries, Pandas, and Matplotlib. </br></br>
 
 ## Background
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
@@ -104,15 +104,9 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
   * When given the start and the end date, calculate the `TMIN`, `TAVG`, and `TMAX` for dates between the start and end date inclusive.
 
-## Hints
-
-* You will need to join the station and measurement tables for some of the queries.
-
-* Use Flask `jsonify` to convert your API data into a valid JSON response object.
-
 - - -
 
-## Bonus: Other Recommended Analyses
+## Other Recommended Analyses
 
 * The following are optional challenge queries. These are highly recommended to attempt, but not required for the homework.
 
